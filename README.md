@@ -92,11 +92,21 @@ PASSWORD: CPNT
       keywords={Global navigation satellite system;Cameras;Navigation;Visualization;Robustness;Real-time systems;Odometry;Visual-Inertial Odometry;GNSS;Sensor Fusion;Localization},
       doi={10.1109/JIOT.2024.3379755}}
 
+    @ARTICLE{10384447,
+      author={Song, Jiangbo and Li, Wanqing and Duan, Chufeng and Wang, Lei and Fan, Yiheng and Zhu, Xiangwei},
+      journal={IEEE Transactions on Circuits and Systems II: Express Briefs}, 
+      title={An Optimization-Based Indoor-Outdoor Seamless Positioning Method Integrating GNSS RTK, PS, and VIO}, 
+      year={2024},
+      volume={},
+      number={},
+      pages={1-1},
+      doi={10.1109/TCSII.2024.3351172}}
+
 Related paper:
 
 [1]	J. Song, W. Li, C. Duan and X. Zhu, "R2-GVIO: A Robust, Real-Time GNSS-Visual-Inertial State Estimator in Urban Challenging Environments," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3379755.
 
-
+[2]	J. Song, W. Li, C. Duan, L. Wang, Y. Fan and X. Zhu, "An Optimization-Based Indoor-Outdoor Seamless Positioning Method Integrating GNSS RTK, PS, and VIO," in IEEE Transactions on Circuits and Systems II: Express Briefs, doi: 10.1109/TCSII.2024.3351172.
 
 
 
